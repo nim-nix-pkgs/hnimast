@@ -11,6 +11,7 @@
   inputs.src-hnimast-v0_3_23.ref   = "refs/tags/v0.3.23";
   inputs.src-hnimast-v0_3_23.owner = "haxscramper";
   inputs.src-hnimast-v0_3_23.repo  = "hnimast";
+  inputs.src-hnimast-v0_3_23.dir   = "";
   inputs.src-hnimast-v0_3_23.type  = "github";
   
   inputs."hmisc".owner = "nim-nix-pkgs";
