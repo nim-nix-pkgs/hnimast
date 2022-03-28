@@ -11,7 +11,6 @@
   inputs.src-hnimast-master.ref   = "refs/heads/master";
   inputs.src-hnimast-master.owner = "haxscramper";
   inputs.src-hnimast-master.repo  = "hnimast";
-  inputs.src-hnimast-master.dir   = "";
   inputs.src-hnimast-master.type  = "github";
   
   inputs."hmisc".owner = "nim-nix-pkgs";
